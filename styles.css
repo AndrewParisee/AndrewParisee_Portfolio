@@ -89,6 +89,9 @@ body {
     font-size: 16pt;
     text-align: center;
 }
+.stream-frame {
+background: #eee url("data:image/svg+xml;utf8,<svg xmlns='http://w3.org' width='100%25' height='100%25'><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='sans-serif' font-size='16' fill='%23666'>Content is currently unavailable.</text></svg>") no-repeat center;
+}
 #hero-image {
     height: 30vh;
     max-width: 100%;
